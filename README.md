@@ -13,9 +13,9 @@
 ### Links
 For this project, we have to create an account in Figma and open this project and “Duplicate to your Drafts” to have access to all design details.
 
-[Link of the Figma project Homepage](https://www.figma.com/file/QYQqMYbdpAHL5xTclwJKSI/Homepage?node-id=0%3A1)
-[Link of the Figma project Pricing](https://www.figma.com/file/KLAI53jdYpfFNEy0O79ymB/Pricing)
-[Link of the Figma project Courses](https://www.figma.com/file/ivg3abH1HLmMayBgjGg1Qf/Courses)
+- [Link of the Figma project Homepage](https://www.figma.com/file/QYQqMYbdpAHL5xTclwJKSI/Homepage?node-id=0%3A1)
+- [Link of the Figma project Pricing](https://www.figma.com/file/KLAI53jdYpfFNEy0O79ymB/Pricing)
+- [Link of the Figma project Courses](https://www.figma.com/file/ivg3abH1HLmMayBgjGg1Qf/Courses)
 
 
 ----
